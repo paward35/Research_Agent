@@ -1,0 +1,11 @@
+openai
+python-dotenv
+pydantic==1.*
+langchain
+bs4
+tiktoken
+streamlit
+google-search-results
+requests
+google-serp-api
+langchain-community
